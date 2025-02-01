@@ -117,11 +117,8 @@ We welcome contributions! Feel free to **fork** this repository, submit **issues
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 📞 Contact
 For any inquiries or support, reach out via:
-📧 Email: your.email@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-
+📧 Email: rohit2852001@gmail.com
 ---
 🎯 **Built for AI-driven Business Insights!** 🚀
 
