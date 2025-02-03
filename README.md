@@ -1,6 +1,8 @@
-# 🚀 Market Research & Use Cases Generator
+                  # 🚀 Market Research & Use Cases Generator
 ##### live link : 
          https://marketresearchandusecasegeneration.onrender.com/
+##### Demo 
+         https://www.loom.com/share/4c4a2a77582241a7aed3bf986cbc80cd?sid=de3a8917-8a61-4d70-8b24-5a206200db55
 ## 📌 Overview
 The **Market Research & Use Cases Generator** is a powerful AI-driven application designed to analyze companies, generate AI/ML use cases, assess feasibility, and collect relevant resources. This tool leverages **LLMs, web scraping, and automation** to streamline the market research process and provide valuable insights.
 
