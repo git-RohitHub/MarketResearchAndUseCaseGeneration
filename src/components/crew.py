@@ -23,9 +23,9 @@ class CreateCrew:
             crew = Crew(
                 agents = [self.CompanyAnalystAgent,self.UseCaseAdvisorAgent,self.FeasibilityCheckerAgent,self.ResourceAssetCollectionAgent],
                 tasks = [self.CompanyAnalysisTask,self.UseCaseAdvisorTask,self.FeasibilityCheckerTask,self.ResourceAssetCollectionTask],
-                process = Process.hierarchical,
-                manager_llm = self.utils.load_llm(model=model_name,temperature=temperature),
-                memory = True
+                # process = Process.hierarchical,
+                # manager_llm = self.utils.load_llm(model=model_name,temperature=temperature),
+                # memory = True
             )
             return crew
         except Exception as e:
