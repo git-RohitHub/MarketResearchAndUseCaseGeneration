@@ -1,4 +1,4 @@
-                  # 🚀 Market Research & Use Cases Generator
+# 🚀 Market Research & Use Cases Generator
 ##### live link : 
          https://marketresearchandusecasegeneration.onrender.com/
 ##### Demo 
